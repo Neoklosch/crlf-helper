@@ -1,0 +1,26 @@
+{
+  "name": "crlf-helper",
+  "version": "0.0.1",
+  "description": "helps to detect and change line endings in strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neoklosch/crlf-helper.git"
+  },
+  "keywords": [
+    "crlf",
+    "lf",
+    "cr",
+    "line",
+    "endings"
+  ],
+  "author": "Markus Paeschke <markus.paeschke@gmail.com> (http://www.mpaeschke.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neoklosch/crlf-helper/issues"
+  },
+  "homepage": "https://github.com/Neoklosch/crlf-helper#readme"
+}
