@@ -1,6 +1,6 @@
 {
   "name": "crlf-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "helps to detect and change line endings in strings",
   "main": "index.js",
   "scripts": {
