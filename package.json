@@ -4,7 +4,7 @@
   "description": "helps to detect and change line endings in strings",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha tests"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neoklosch/crlf-helper/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
   },
   "homepage": "https://github.com/Neoklosch/crlf-helper#readme"
 }
