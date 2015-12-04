@@ -1,10 +1,10 @@
 # crlf-helper
 helps to detect and change line endings in node.js strings
 
-# install
-`npm install crlf-helper
+## Installation
+`npm install crlf-helper`
 
-# usage
+## Usage
 ```
 var crlf = require('crlf-helper');
 
@@ -18,3 +18,6 @@ console.log(contentWithNewLineEnding);
 // content\nwith line break
 ```
 
+## Bugs and issues
+
+If you find a bug or issues, please create an issue at [github](https://github.com/Neoklosch/crlf-helper/issues).
