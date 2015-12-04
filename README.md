@@ -1,4 +1,7 @@
 # crlf-helper
+
+[![Build Status (Travis)](https://travis-ci.org/Neoklosch/crlf-helper.svg?branch=master)](https://travis-ci.org/Neoklosch/crlf-helper)
+
 helps to detect and change line endings in node.js strings
 
 ## Installation
